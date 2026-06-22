@@ -1,0 +1,6 @@
+com.bi3bju.text_encryption_tool.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\Administrator\.gradle\caches\8.9\transforms\221d6938217186c19143aacb5ef8398e\transformed\jetified-annotation-experimental-1.3.0\res
+com.bi3bju.text_encryption_tool.test.app-jetified-core-1.5.0-1 C:\Users\Administrator\.gradle\caches\8.9\transforms\494a9d04d5926fff04d5cd11cab24dbc\transformed\jetified-core-1.5.0\res
+com.bi3bju.text_encryption_tool.test.app-androidTest-2 C:\Users\Administrator\AndroidStudioProjects\Text_Encryption_Tool\app\build\generated\res\resValues\androidTest\debug
+com.bi3bju.text_encryption_tool.test.app-mergeDebugAndroidTestResources-3 C:\Users\Administrator\AndroidStudioProjects\Text_Encryption_Tool\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bi3bju.text_encryption_tool.test.app-mergeDebugAndroidTestResources-4 C:\Users\Administrator\AndroidStudioProjects\Text_Encryption_Tool\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bi3bju.text_encryption_tool.test.app-debugAndroidTest-5 C:\Users\Administrator\AndroidStudioProjects\Text_Encryption_Tool\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

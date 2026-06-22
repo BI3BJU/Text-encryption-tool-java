@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Text Encryption Tool</string>
+    <string name="app_title">Text Encryption Tool (AES-256-GCM) v1.0 by BI3BJU</string>
+    <string name="base64">Base64</string>
+    <string name="cipher_stats_base64">Characters (Base64): %d</string>
+    <string name="cipher_stats_empty">Empty ciphertext</string>
+    <string name="cipher_stats_hex">Bytes (Hex): %d</string>
+    <string name="cipher_stats_invalid">Invalid ciphertext</string>
+    <string name="ciphertext_hint">Encrypted ciphertext will appear here</string>
+    <string name="ciphertext_label">Ciphertext</string>
+    <string name="decrypt_button">← Decrypt</string>
+    <string name="encrypt_button">Encrypt →</string>
+    <string name="generate_key_button">Generate Key</string>
+    <string name="hex">Hex</string>
+    <string name="key_hint">It is recommended to use a password manager to generate a 32-byte random key (Base64) for maximum security and minimal storage overhead.</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_cut">Cut</string>
+    <string name="menu_decrypt_current">Decrypt Current Text</string>
+    <string name="menu_encrypt_current">Encrypt Current Text</string>
+    <string name="menu_generate_key">Generate Random Key</string>
+    <string name="menu_options_title">Options</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_select_all">Select All</string>
+    <string name="output_format_label">Output format:</string>
+    <string name="password_hint">It is recommended to use a password manager to generate a 32-byte random key (Base64) for maximum security and minimal storage overhead.</string>
+    <string name="password_label">Key</string>
+    <string name="plain_stats">UTF-8 bytes: %d</string>
+    <string name="plaintext_hint">Enter text to encrypt</string>
+    <string name="plaintext_label">Plaintext (Unicode)</string>
+    <string name="status_cipher_empty">Warning: Ciphertext cannot be empty</string>
+    <string name="status_cleared">Content cleared</string>
+    <string name="status_copied">Copied to clipboard</string>
+    <string name="status_copy_failed">Failed to copy to clipboard</string>
+    <string name="status_cut">Cut</string>
+    <string name="status_decrypt_failed_general">Decryption failed: unknown error</string>
+    <string name="status_decrypt_failed_wrong_key">Decryption failed: wrong key or corrupted data</string>
+    <string name="status_decrypt_success">Decryption successful, plaintext copied to clipboard</string>
+    <string name="status_encrypt_failed">Encryption error: %s</string>
+    <string name="status_encrypt_success">Encryption successful, ciphertext copied to clipboard</string>
+    <string name="status_invalid_format">Error: Invalid ciphertext format (needs at least 28 bytes)</string>
+    <string name="status_key_empty">Warning: Key cannot be empty</string>
+    <string name="status_key_generated">Random key generated and copied to clipboard</string>
+    <string name="status_pasted">Pasted from clipboard</string>
+    <string name="status_plain_empty">Warning: Plaintext cannot be empty</string>
+    <string name="status_selected_all">All text selected</string>
+    <style name="Theme.AES256GCMTool" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
