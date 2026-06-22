@@ -1,6 +1,6 @@
 # Text Encryption Tool (文本加密工具)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple)](https://kotlinlang.org/)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen)](https://developer.android.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://www.android.com/)
@@ -65,7 +65,7 @@ A lightweight Android app for symmetric encryption/decryption of text using **AE
 - **UI**: Android XML layouts with `AppCompat` and `WindowInsets` handling
 
 ### License
-Distributed under the **Apache License 2.0**. See `LICENSE` for more information.
+Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
@@ -116,6 +116,6 @@ Distributed under the **Apache License 2.0**. See `LICENSE` for more information
 - **界面**：Android XML 布局，配合 `AppCompat` 和 `WindowInsets` 处理
 
 ### 许可证
-本项目采用 **Apache License 2.0** 许可证。详见 `LICENSE` 文件。
+本项目采用 **MIT License** 许可证。详见 `LICENSE` 文件。
 
 ---
