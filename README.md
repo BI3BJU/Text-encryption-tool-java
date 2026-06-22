@@ -14,7 +14,7 @@
 
 | 主界面 (Main) | 
 | :---: |
-| ![主界面](./main.png) | 
+| ![主界面](./main.jpg) | 
 
 > **注**：请将你的应用截图放入 `screenshots/` 文件夹，并命名为 `main.png`、`encrypt.png`、`decrypt.png`，或修改上述图片路径。
 
