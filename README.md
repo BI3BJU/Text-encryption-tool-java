@@ -4,7 +4,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple)](https://kotlinlang.org/)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen)](https://developer.android.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://www.android.com/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/BI3BJU/Text-Encryption-Tool-Java)](https://github.com/BI3BJU/Text-Encryption-Tool-Java)
+[![GitHub last commit](https://img.shields.io/github/last-commit/BI3BJU/Text-Encryption-Tool-Java)]
 
 **English** | [中文](#中文版)
 
