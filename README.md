@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green)](https://www.android.com/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/BI3BJU/Text-Encryption-Tool-Java)]
 
-**English** | [中文](#中文版)
+
 
 ## Screenshots (截图)
 
